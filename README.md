@@ -629,18 +629,6 @@ User → Streamlit Dashboard → Enter City → FastAPI
 
 ---
 
-## 🔮 Future Improvements
-
-- 🤖 **Risk Prediction** — disaster risk score from severity, weather, affected population, and historical data (e.g. *Hyderabad — Risk Score: 82/100 🔴 High Risk*)
-- 📈 **Historical Data** — track temperature, weather, disaster, and population-impact trends over time
-- 🔔 **Alerts** — notifications for new high-severity disasters, critical events, extreme weather, or rapid population impact increases
-- 👤 **Authentication** — role-based access (Admin / Analyst / Viewer)
-- 🗺️ **Advanced Mapping** — marker clustering, heatmaps, state boundaries, disaster zones, risk regions, geographic filtering
-- 📄 **Report Generation** — export data as CSV, PDF, or Excel
-- ☁️ **Cloud Deployment** — Streamlit Cloud, Render, AWS, Azure, or Docker, with PostgreSQL replacing SQLite in production
-
----
-
 ## 🏆 Project Highlights
 
 REST API development · FastAPI · Python · SQLAlchemy · database management · Pydantic validation · CRUD architecture · external API integration · weather data integration · geocoding · data visualization · interactive maps · Streamlit dashboards · automated testing · modular software architecture
