@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,25:0EA5E9,60:F59E0B,100:DC2626&height=220&section=header&text=TerraWatch&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=City%20%26%20Disaster%20Intelligence%20Platform&descAlignY=58&descSize=18" width="100%"/>
+# 🌍 TerraWatch
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Monitor+cities+in+real-time+%F0%9F%8C%A4%EF%B8%8F;Track+disasters+as+they+unfold+%F0%9F%9A%A8;Auto-geolocate+every+record+%F0%9F%93%8D;Visualize+it+all+on+an+interactive+map+%F0%9F%97%BA%EF%B8%8F" alt="Typing SVG" />
+### City & Disaster Intelligence Platform
+
+*Monitor cities in real-time 🌤️ · Track disasters as they unfold 🚨 · Auto-geolocate every record 📍 · Visualize it all on an interactive map 🗺️*
 
 <br/>
 
@@ -603,6 +605,42 @@ User → Streamlit Dashboard → Enter City → FastAPI
 
 ---
 
+## 📊 Project Status
+
+| Component | Status |
+|---|---|
+| FastAPI Backend | ✅ Complete |
+| City Module | ✅ Complete |
+| Weather Integration | ✅ Complete |
+| Disaster Module | ✅ Complete |
+| CRUD Operations | ✅ Complete |
+| Filtering | ✅ Complete |
+| Validation | ✅ Complete |
+| SQLite Database | ✅ Complete |
+| Automatic Geocoding | ✅ Complete |
+| Streamlit Frontend | ✅ Complete |
+| Analytics | ✅ Complete |
+| Interactive Map | ✅ Complete |
+| Automated Testing | ✅ Complete |
+| Authentication | 🔜 Future |
+| Risk Prediction | 🔜 Future |
+| Notifications | 🔜 Future |
+| Cloud Deployment | 🔜 Future |
+
+---
+
+## 🔮 Future Improvements
+
+- 🤖 **Risk Prediction** — disaster risk score from severity, weather, affected population, and historical data (e.g. *Hyderabad — Risk Score: 82/100 🔴 High Risk*)
+- 📈 **Historical Data** — track temperature, weather, disaster, and population-impact trends over time
+- 🔔 **Alerts** — notifications for new high-severity disasters, critical events, extreme weather, or rapid population impact increases
+- 👤 **Authentication** — role-based access (Admin / Analyst / Viewer)
+- 🗺️ **Advanced Mapping** — marker clustering, heatmaps, state boundaries, disaster zones, risk regions, geographic filtering
+- 📄 **Report Generation** — export data as CSV, PDF, or Excel
+- ☁️ **Cloud Deployment** — Streamlit Cloud, Render, AWS, Azure, or Docker, with PostgreSQL replacing SQLite in production
+
+---
+
 ## 🏆 Project Highlights
 
 REST API development · FastAPI · Python · SQLAlchemy · database management · Pydantic validation · CRUD architecture · external API integration · weather data integration · geocoding · data visualization · interactive maps · Streamlit dashboards · automated testing · modular software architecture
@@ -619,6 +657,8 @@ TerraWatch is a unified city and disaster intelligence platform combining real-t
 
 ### 🌍 Monitor. Analyze. Respond.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,25:F59E0B,60:0EA5E9,100:16A34A&height=120&section=footer" width="100%"/>
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-16A34A?style=flat-square)
+![Powered by FastAPI](https://img.shields.io/badge/Powered%20by-FastAPI-0EA5E9?style=flat-square)
+![Built with Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-DC2626?style=flat-square)
 
 </div>
