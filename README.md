@@ -643,7 +643,7 @@ TerraWatch is a unified city and disaster intelligence platform combining real-t
 
 <div align="center">
 
-### 🌍 Monitor. Analyze. Respond.
+### 🌍 Monitor. Analyze. Respond...............................
 
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-16A34A?style=flat-square)
 ![Powered by FastAPI](https://img.shields.io/badge/Powered%20by-FastAPI-0EA5E9?style=flat-square)
